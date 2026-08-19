@@ -3,11 +3,6 @@
 A complete Machine Learning project for predicting **medical insurance charges** using multiple regression algorithms, hyperparameter tuning, and a Streamlit web application.
 
 ---
-## 🖥️ Application Preview
-
-![Streamlit Medical Insurance Prediction App](streamlit-app.png)
-
----
 
 ## 📌 Project Overview
 
